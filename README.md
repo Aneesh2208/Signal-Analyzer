@@ -25,6 +25,7 @@ A Python-based toolkit for generating and analyzing continuous-time (CT) and dis
 ---
 
 ## 📂 Folder Structure
+'''bash
 Signal-Analyzer-ECE/
 │
 ├── src/
