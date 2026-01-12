@@ -114,7 +114,7 @@ def sin_dt(n, f=0.1, A=1.0, phase=0.0):
     return x
 
 
-## Discrete time exponential decay signal
+### Discrete time exponential decay signal
 def exp_decay_dt(n, a=0.9):
     """
     definition:
