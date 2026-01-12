@@ -24,27 +24,24 @@ A Python-based toolkit for generating and analyzing continuous-time (CT) and dis
 
 ---
 
-## 📂 Folder Structure
-'''bash
+## 📁 Folder Structure
+
+```bash
 Signal-Analyzer-ECE/
-│
 ├── src/
-│ ├── main.py
-│ ├── signal_generator.py
-│ ├── signal_operations.py
-│ ├── convolution.py
-│ └── plot_utils.py
-│
+│   ├── main.py
+│   ├── signal_generator.py
+│   ├── signal_operations.py
+│   ├── convolution.py
+│   └── plot_utils.py
 ├── plots/
-│ ├── signals/
-│ ├── operations/
-│ │ ├── ct/
-│ │ └── dt/
-│ └── convolution/
-│
+│   ├── signals/
+│   ├── operations/
+│   │   ├── ct/
+│   │   └── dt/
+│   └── convolution/
 ├── report/
-│ └── project_report.md
-│
+│   └── project_report.md
 ├── README.md
 ├── requirements.txt
 └── .gitignore
