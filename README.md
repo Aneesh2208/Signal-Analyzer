@@ -45,7 +45,7 @@ Signal-Analyzer-ECE/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-
+```
 ---
 
 ## 🧠 Concepts Covered
